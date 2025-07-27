@@ -1,45 +1,48 @@
-##🚗 Car Rental System
-Welcome to the Car Rental System, a console-based application built to simplify the process of renting and managing cars. This project is designed with modular features that make it easy to handle customer interactions, track rentals, and manage a fleet of vehicles efficiently.
+# 🚗 Car Rental System
 
-##🔑 Key Features
-🚙 Rent a Car
-Experience the ease of renting a car through an interactive console interface.
+Welcome to the **Car Rental System**, a console-based application built to simplify the process of renting and managing cars. This project is designed with modular features that make it easy to handle customer interactions, track rentals, and manage a fleet of vehicles efficiently.
 
-🔁 Return a Car
-Effortlessly return rented vehicles and automatically update their availability status.
+---
 
-🧑‍💼 Customer Management
-Add and maintain customer records, ensuring smooth rental transactions.
+## 🔑 Key Features
 
-🚘 Car Management
-Handle vehicle details such as brand, model, and pricing with ease.
+- **🚙 Rent a Car**  
+  Experience the ease of renting a car through an interactive console interface.
 
-🕓 Rental History Tracking
-Maintain complete records of rental durations and customer history for reporting and analysis.
+- **🔁 Return a Car**  
+  Effortlessly return rented vehicles and automatically update their availability status.
 
-📌 Technologies Used
-Java (or your language of implementation)
+- **🧑‍💼 Customer Management**  
+  Add and maintain customer records, ensuring smooth rental transactions.
 
-Object-Oriented Programming (OOP)
+- **🚘 Car Management**  
+  Handle vehicle details such as brand, model, and pricing with ease.
 
-File Handling / Database (if any)
+- **🕓 Rental History Tracking**  
+  Maintain complete records of rental durations and customer history for reporting and analysis.
 
-Console-based UI
+---
 
-🛤️ Future Roadmap
-🤝 Multi-Customer Rentals: Enable support for multiple customers renting the same car model concurrently.
+## 📌 Technologies Used
 
-⏰ Dynamic Pricing: Implement date-based and seasonal pricing adjustments.
+- Java (or your language of implementation)
+- Object-Oriented Programming (OOP)
+- File Handling / Database (if any)
+- Console-based UI
 
-🎨 GUI Interface: Integrate a modern graphical user interface for an improved user experience.
+---
 
-💡 Why This Project?
-This project showcases practical application of:
+## 🛤️ Future Roadmap
 
-OOP principles
+- 🤝 **Multi-Customer Rentals**  
+  Enable support for multiple customers renting the same car model concurrently.
 
-File handling or basic database logic
+- ⏰ **Dynamic Pricing**  
+  Implement date-based and seasonal pricing adjustments.
 
-Real-world problem solving
+- 🎨 **GUI Interface**  
+  Integrate a modern graphical user interface for an improved user experience.
 
-Modular programming and system scalability
+
+
+
