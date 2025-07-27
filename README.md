@@ -1,7 +1,7 @@
-🚗 Car Rental System
+##🚗 Car Rental System
 Welcome to the Car Rental System, a console-based application built to simplify the process of renting and managing cars. This project is designed with modular features that make it easy to handle customer interactions, track rentals, and manage a fleet of vehicles efficiently.
 
-🔑 Key Features
+##🔑 Key Features
 🚙 Rent a Car
 Experience the ease of renting a car through an interactive console interface.
 
